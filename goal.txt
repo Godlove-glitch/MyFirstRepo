@@ -1,0 +1,23 @@
+# My Personal and Academic Goals for Next Year
+
+1. Master Git and GitHub Workflows
+   I want to become fully comfortable using version control tools to manage all my coding projects.
+
+2. Build Strong Python Skills
+   I plan to deepen my Python knowledge, especially in data science and automation projects.
+
+3. Work on Real-World Projects  
+   I aim to complete at least 3 meaningful, beginner-to-intermediate level projects and upload them to GitHub.
+
+4. Strengthen My Math for Data Science  
+   I will review key concepts in statistics, probability, and algebra to support my data analysis skills.
+
+5. Apply for University Programs 
+   I plan to complete strong applications for programs that align with my goals in technology and innovation.
+
+6. Contribute to Open Source (Even Small!) 
+   Before the year ends, I want to make at least one meaningful contribution to an open-source project.
+
+7. Stay Consistent and Reflect
+   I’ll track my learning regularly and take time to reflect on both progress and challenges.
+
