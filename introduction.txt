@@ -1,0 +1,11 @@
+# Brief Introduction About Myself
+
+Hello! My name is Godlove, 
+a curious and driven learner on a mission to explore the world of technology—one command line at a time. 
+I come from a background in sciences, but my true passion sparked when I discovered the creative power of data, programming, and problem-solving. 
+That passion led me to dive into the world of Linux, Git, and coding, where I now enjoy building projects and learning by doing.
+
+Currently, 
+I’m learning foundational tools like Git Bash, GitHub, and Linux commands to better understand how developers manage code and collaborate effectively. 
+I believe that every small script and command I master brings me closer to becoming a skilled and thoughtful tech innovator—especially in areas like data science and ethical AI. 
+This project marks my first step on that journey.
