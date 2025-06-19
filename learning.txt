@@ -1,0 +1,2 @@
+So far in this course, I’ve learned how to use Git and GitHub to manage and track changes in my projects. I now understand how to create repositories, commit updates, push changes to the cloud, and even delete files through Git Bash. These tools were confusing at first, but with practice, I’ve gained confidence and I’m starting to see how they fit into real-world tech workflows.
+
