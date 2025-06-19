@@ -1,1 +1,0 @@
-So far in this course, I've learned how to use Git Bash,write basic shell commands, and push projects to Github. I'm starting to feel more confident navigating the terminal!
